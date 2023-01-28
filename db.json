@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Marta",
+      "email": "martaalcazarredondo@gmail.com",
+      "telefono": "951124352",
+      "empresa": "martaaa",
+      "id": 2
+    },
+    {
+      "nombre": "Elsaa",
+      "email": "elsa@elsa.com",
+      "telefono": "923423456",
+      "empresa": "eerer",
+      "id": 3
+    }
+  ]
+}
